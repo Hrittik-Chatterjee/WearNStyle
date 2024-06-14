@@ -6,9 +6,12 @@ const MyProductCard = ({ product, onDelete }) => {
   const { title, price, image_url, _id } = product;
 
   const handleDelete = async () => {
-    await fetch(`http://localhost:5000/products/${_id}`, {
-      method: "DELETE",
-    })
+    await fetch(
+      `https://ecommerce-dashboard-server-awlu.onrender.com/products/${_id}`,
+      {
+        method: "DELETE",
+      }
+    )
       .then((res) => res.json())
       .then((data) => {
         console.log(data);

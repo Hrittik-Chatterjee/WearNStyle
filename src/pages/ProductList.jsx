@@ -6,7 +6,7 @@ const ProductList = () => {
   const [selectedCategory, setSelectedCategory] = useState("");
 
   useEffect(() => {
-    fetch("http://localhost:5000/products")
+    fetch("https://ecommerce-dashboard-server-awlu.onrender.com/products")
       .then((res) => res.json())
       .then((data) => setProducts(data));
   }, []);

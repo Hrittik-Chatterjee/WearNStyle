@@ -8,7 +8,7 @@ const MyProductList = () => {
   const { user } = useAuth();
 
   useEffect(() => {
-    fetch("http://localhost:5000/products/")
+    fetch("https://ecommerce-dashboard-server-awlu.onrender.com/products/")
       .then((res) => res.json())
       .then((data) => setProducts(data));
   }, []);

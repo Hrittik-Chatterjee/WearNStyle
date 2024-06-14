@@ -91,7 +91,9 @@ export const router = createBrowserRouter([
           </PrivateRoute>
         ),
         loader: ({ params }) =>
-          fetch(`http://localhost:5000/products/${params.id}`),
+          fetch(
+            `https://ecommerce-dashboard-server-awlu.onrender.com/products/${params.id}`
+          ),
       },
       {
         path: "products/edit/:id",
@@ -101,7 +103,9 @@ export const router = createBrowserRouter([
           </PrivateRoute>
         ),
         loader: ({ params }) =>
-          fetch(`http://localhost:5000/products/${params.id}`),
+          fetch(
+            `https://ecommerce-dashboard-server-awlu.onrender.com/products/${params.id}`
+          ),
       },
     ],
   },

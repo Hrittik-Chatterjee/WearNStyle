@@ -10,13 +10,16 @@ const CartProducts = () => {
 
   const handleCheckout = async () => {
     const stripe = await stripePromise;
-    const response = await fetch("http://localhost:5000/checkout", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ cart }),
-    });
+    const response = await fetch(
+      "https://ecommerce-dashboard-server-awlu.onrender.com/checkout",
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ cart }),
+      }
+    );
     console.log("clicked");
     const session = await response.json();
 
