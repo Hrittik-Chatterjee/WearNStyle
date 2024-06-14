@@ -1,0 +1,203 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Air Max 270",
+      "price": "160",
+      "stock_quantity": 3,
+      "description": "The Nike Air Max 270 combines modern comfort with a throwback style inspired by the Air Max 180 and Air Max 93.",
+      "category": "shoe",
+      "image_url": "https://st4.depositphotos.com/4278641/30109/i/450/depositphotos_301096984-stock-photo-male-leather-shoes-isolated-on.jpg"
+    },
+    {
+      "id": "2",
+      "title": "UltraBoost 21",
+      "price": 180,
+      "stock_quantity": 5,
+      "category": "shoe",
+      "description": "The Adidas UltraBoost 21 features a bold new design with an improved Boost midsole for ultimate comfort and energy return.",
+      "image_url": "https://brand.assets.adidas.com/image/upload/f_auto,q_auto,fl_lossy/if_w_gt_530,w_530/shoes_women_tcc_d_234be42564.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Classic Leather",
+      "price": 75,
+      "stock_quantity": 10,
+      "category": "shoe",
+      "description": "Reebok's Classic Leather sneakers are timeless icons, offering everyday comfort and a sleek look with their soft leather upper.",
+      "image_url": "https://rukminim2.flixcart.com/image/450/500/xif0q/shoe/7/z/r/8-white-leaf-8-urbanbox-white-black-original-imagvgf4cuzs2hrw.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "4",
+      "title": "Gel-Kayano 27",
+      "price": 160,
+      "stock_quantity": 2,
+      "category": "shoe",
+      "description": "The ASICS Gel-Kayano 27 provides premium stability and cushioning, perfect for overpronators seeking a smooth, comfortable run.",
+      "image_url": "https://toffpark.com/wp-content/uploads/2023/01/Classic-Retro-Style-Leather-Casual-Shoe-Brown.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Chuck Taylor All Star",
+      "price": 55,
+      "stock_quantity": 9,
+      "category": "shoe",
+      "description": "Converse Chuck Taylor All Star sneakers are an all-time classic, offering a durable canvas upper and the iconic rubber toe cap.",
+      "image_url": "https://cdn.thewirecutter.com/wp-content/media/2024/05/running-shoes-2048px-9718.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Shirt",
+      "price": 55,
+      "stock_quantity": 3,
+      "category": "shirt",
+      "description": "Converse Chuck Taylor All Star sneakers are an all-time classic, offering a durable canvas upper and the iconic rubber toe cap.",
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7c%2F82%2F7c82638a53c72bbe70feedd36610848c8ef007d3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+      "id": "7",
+      "title": "shirt",
+      "price": 55,
+      "stock_quantity": 0,
+      "category": "shirt",
+      "description": "Converse Chuck Taylor All Star sneakers are an all-time classic, offering a durable canvas upper and the iconic rubber toe cap.",
+      "image_url": "https://dynamic.zacdn.com/GssezzKQQg05SHU8OlZkdZY91bc=/filters:quality(70):format(webp)/https://static-sg.zacdn.com/p/hm-2431-7473303-5.jpg"
+    },
+    {
+      "id": "8",
+      "title": "shirt",
+      "price": 55,
+      "stock_quantity": 6,
+      "category": "shirt",
+      "description": "Converse Chuck Taylor All Star sneakers are an all-time classic, offering a durable canvas upper and the iconic rubber toe cap.",
+      "image_url": "https://dynamic.zacdn.com/ZkBq2KdGBoq_sgqvAJ5Do7Y58_Y=/filters:quality(70):format(webp)/https://static-sg.zacdn.com/p/hm-9667-3920013-1.jpg"
+    },
+    {
+      "id": "9",
+      "title": "shirt",
+      "price": 55,
+      "stock_quantity": 0,
+      "category": "shirt",
+      "description": "shirt",
+      "image_url": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/28190456/2024/5/17/afdc874a-4461-43f8-b56d-de433596e2421715929945932-HM-Patterned-Resort-Shirt-9291715929945815-11.jpg"
+    },
+    {
+      "id": "10",
+      "title": "shirt",
+      "price": 55,
+      "stock_quantity": 10,
+      "category": "shirt",
+      "description": "Converse Chuck Taylor All Star sneakers are an all-time classic, offering a durable canvas upper and the iconic rubber toe cap.",
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fba%2Fc2%2Fbac20059a0c973f9953feebf35ecb30579125671.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+      "id": "11",
+      "title": "tshirt",
+      "price": 55,
+      "stock_quantity": 20,
+      "category": "t-shirt",
+      "description": "Converse Chuck Taylor All Star sneakers are an all-time classic, offering a durable canvas upper and the iconic rubber toe cap.",
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F91%2Fdd%2F91dd9cce93957a1d4d032d6ae446528ba2c70868.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+    },
+    {
+      "id": "12",
+      "title": "tshirt",
+      "price": 55,
+      "stock_quantity": 30,
+      "category": "t-shirt",
+      "description": "Converse Chuck Taylor All Star sneakers are an all-time classic, offering a durable canvas upper and the iconic rubber toe cap.",
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8d%2Fa0%2F8da04800363d6176a5655d017f60f681a1d0c5f5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_tops_printed_tshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+    },
+    {
+      "id": "13",
+      "title": "t shirt",
+      "price": 55,
+      "stock_quantity": 30,
+      "category": "t-shirt",
+      "description": "Converse Chuck Taylor All Star sneakers are an all-time classic, offering a durable canvas upper and the iconic rubber toe cap.",
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F58%2F5f%2F585f1749a2a13c0318f7eb760efff39a1bbe5498.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+    },
+    {
+      "id": "14",
+      "title": "hat",
+      "price": 55,
+      "stock_quantity": 10,
+      "category": "hat",
+      "description": "Converse Chuck Taylor All Star sneakers are an all-time classic, offering a durable canvas upper and the iconic rubber toe cap.",
+      "image_url": "https://media.boohoo.com/i/boohoo/bmm35607_white_xl_1/male-white-man-metal-branded-cap"
+    },
+    {
+      "id": "15",
+      "title": "hat",
+      "price": 55,
+      "stock_quantity": 10,
+      "category": "hat",
+      "description": "Converse Chuck Taylor All Star sneakers are an all-time classic, offering a durable canvas upper and the iconic rubber toe cap.",
+      "image_url": "https://cdn.endource.com/image/03d24a3842173df06bd2c1d702e65243/detail/and-other-stories-wool-melange-baseball-cap.jpg?optimizer=image&class=800"
+    },
+    {
+      "id": "16",
+      "title": "hat",
+      "price": 55,
+      "stock_quantity": 20,
+      "category": "hat",
+      "description": "Converse Chuck Taylor All Star sneakers are an all-time classic, offering a durable canvas upper and the iconic rubber toe cap.",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/91H3WKjpnyL._SLDPMOBCAROUSELAUTOCROP288221_MCnd_AC_SR462,693_.jpg"
+    },
+    {
+      "id": "17",
+      "title": "pant",
+      "price": 55,
+      "stock_quantity": 20,
+      "category": "pant",
+      "description": "Converse Chuck Taylor All Star sneakers are an all-time classic, offering a durable canvas upper and the iconic rubber toe cap.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_khv2h_MTBzt5PH6q7Xq-hQ25sdSEHKSZIQ&s"
+    },
+    {
+      "id": "18",
+      "title": "pant",
+      "price": 55,
+      "stock_quantity": 10,
+      "category": "pant",
+      "description": "Converse Chuck Taylor All Star sneakers are an all-time classic, offering a durable canvas upper and the iconic rubber toe cap.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwrHmml74yae4gYWNRENUxTAWcNUrOI9KHUHK6zpv46K6RetRlcoElMEoRuV_b0_CXzfk&usqp=CAU"
+    },
+    {
+      "id": "19",
+      "title": "pant",
+      "price": 55,
+      "stock_quantity": 10,
+      "category": "pant",
+      "description": "Converse Chuck Taylor All Star sneakers are an all-time classic, offering a durable canvas upper and the iconic rubber toe cap.",
+      "image_url": "https://i.pinimg.com/736x/a5/bd/33/a5bd33832abcb92429cc4ea367c04b73.jpg"
+    },
+    {
+      "id": "20",
+      "title": "pant",
+      "price": 55,
+      "stock_quantity": 10,
+      "category": "pant",
+      "description": "Converse Chuck Taylor All Star sneakers are an all-time classic, offering a durable canvas upper and the iconic rubber toe cap.",
+      "image_url": "https://i.pinimg.com/236x/40/80/3d/40803dcda04a9d17f8af53cb216e2bdb.jpg"
+    },
+    {
+      "id": "252",
+      "title": "add testing",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2pNhd5mlyuDkT0sjxBwPOm7YNX-H7Lp6xw&s",
+      "category": "pant",
+      "description": "fafa afafaf afafa afafa afafaf afafaf afafa afaf",
+      "price": "200",
+      "stock_quantity": "5"
+    },
+    {
+      "id": "2552",
+      "title": "shirt ",
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F95%2Fda%2F95da868ec874723bb785cb588b5e5a7ca2d2d16f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_tops_tshirts%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "category": "shirt",
+      "description": "editing experiment",
+      "price": "707",
+      "stock_quantity": "2",
+      "userEmail": "hrittik@gmail.com"
+    }
+  ]
+}
