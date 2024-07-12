@@ -29,7 +29,7 @@ const Login = () => {
     <div className="flex min-h-full flex-1 flex-col justify-center px-6 py-12 lg:px-8 bg-slate-300">
       <div className="sm:mx-auto sm:w-full sm:max-w-sm">
         <h2 className="mt-10">Use This for testing</h2>
-        <P>Email: test@mail.com</P>
+        <p>Email: test@mail.com</p>
         <p>Password: 12345678</p>
         <h2 className="my-4 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">
           Sign in to your account
