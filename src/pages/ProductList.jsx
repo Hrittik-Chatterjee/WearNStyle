@@ -49,47 +49,55 @@ const ProductList = () => {
         ></label>
         <ul className="menu p-4 w-80 min-h-full bg-base-200 text-base-content">
           {/* Sidebar content here */}
-          <li>
-            <button
-              className="btn my-4"
-              onClick={() => setSelectedCategory("")}
-            >
-              All
-            </button>
-          </li>
-          <li>
-            <button
-              className="btn my-4"
-              onClick={() => setSelectedCategory("shirt")}
-            >
-              Shirt
-            </button>
-          </li>
-          <li>
-            <button
-              className="btn my-4"
-              onClick={() => setSelectedCategory("t-shirt")}
-            >
-              Tshirt
-            </button>
-          </li>
-          <li>
-            <button
-              className="btn my-4"
-              onClick={() => setSelectedCategory("pant")}
-            >
-              Pant
-            </button>
-          </li>
+            <li>
+                <button
+                  className="btn my-4"
+                  onClick={() => setSelectedCategory("")}
+                >
+                  All
+                </button>
+              </li>
+              <li>
+                <button
+                  className="btn my-4"
+                  onClick={() => setSelectedCategory("basic")}
+                >
+                  Basic Caps
+                </button>
+              </li>
+              <li>
+                <button
+                  className="btn my-4"
+                  onClick={() => setSelectedCategory("BaseBall")}
+                >
+                  Baseball Caps
+                </button>
+              </li>
+              <li>
+                <button
+                  className="btn my-4"
+                  onClick={() => setSelectedCategory("CowBoy")}
+                >
+                  Cow Boy Hats
+                </button>
+              </li>
 
-          <li>
-            <button
-              className="btn my-4"
-              onClick={() => setSelectedCategory("hat")}
-            >
-              Hats
-            </button>
-          </li>
+              <li>
+                <button
+                  className="btn my-4"
+                  onClick={() => setSelectedCategory("FlatVisor")}
+                >
+                  Flat Visor Caps
+                </button>
+              </li>
+              <li>
+                <button
+                  className="btn my-4"
+                  onClick={() => setSelectedCategory("Bucket")}
+                >
+                  Bucket Hats
+                </button>
+              </li>
         </ul>
       </div>
     </div>
