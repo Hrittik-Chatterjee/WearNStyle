@@ -143,7 +143,7 @@ const EditProducts = () => {
                 <option value="BaseBall">BaseBall Caps</option>
                 <option value="CowBoy">Cow Boy Hats</option>
                 <option value="Bucket">Bucket Hats </option>
-                <option value="FlatVisor">Flat Visor Cap</option
+                <option value="FlatVisor">Flat Visor Cap</option>
                <option value="shoe">Shoe</option>
                 <option value="hat">Hat</option>
                 <option value="pant">Pant</option>
