@@ -144,6 +144,11 @@ const EditProducts = () => {
                 <option value="CowBoy">Cow Boy Hats</option>
                 <option value="Bucket">Bucket Hats </option>
                 <option value="FlatVisor">Flat Visor Cap</option
+               <option value="shoe">Shoe</option>
+                <option value="hat">Hat</option>
+                <option value="pant">Pant</option>
+                <option value="shirt">Shirt</option>
+                <option value="t-shirt">Tshirt</option>
               </select>
             </div>
 
